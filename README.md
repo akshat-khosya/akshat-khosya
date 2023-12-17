@@ -1,34 +1,58 @@
-<h1 align="center">Hi 👋, I'm Akshat Khosya</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-khosya&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-khosya" /> </p>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Namaste 🙏🏻, I'm Akshat Khosya <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="290">
 
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/akshatkhosya?label=Follow)](https://twitter.com/akshatkhosya)
+[![Linkedin: anmol](https://img.shields.io/badge/-akshat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshatkhosya/)](https://www.linkedin.com/in/akshatkhosya/)
+![GitHub followers](https://img.shields.io/github/followers/akshat-khosya?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=akshat-khosya&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [SRM alumni Portal](https://github.com/akshat-khosya/srm)
+### 📫 Like to meet me?
 
-- 🌱 I’m currently learning **DSA**
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-- 💬 Ask me about **MERN**
+<a href="https://calendly.com/akshatkhosya/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-- 📫 How to reach me **akshatdps12@gmail.com**
+👇 Hit in your console or terminal to connect with me.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshatkhosya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshatkhosya" height="30" width="40" /></a>
-<a href="https://fb.com/akshat khosya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akshat khosya" height="30" width="40" /></a>
-<a href="https://instagram.com/akshat_khosya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshat_khosya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akshatkhosya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akshatkhosya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshatkhosya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshatkhosya" height="30" width="40" /></a>
-</p>
+```bash
+npx akshat
+```
+**👆 This command line tool can be found at [npx akshat](https://github.com/akshat/npx_card)**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-khosya&show_icons=true&locale=en&layout=compact&theme=gotham" alt="akshat-khosya" /></p>
+```javascript
+const akshat = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "TypeScript", "Python", "C++", "C"],
+    askMeAbout: ["Web", "App", "Open Source"],
+    technologies: {
+        backEnd: {
+            js: ["NodeJs", "NestJs", "ExpressJs"],
+            python: ["FastAPI"],
+        },
+        frontend:[
+            web: ["React", "NextJs", "Vite"],
+            mobileApp: ["React Native"],
+        ],
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["MongoDB", "MySql", "Web SQL", "PostgreSQL", "Redis"],
+        misc: ["MQTT", "Socket.IO", "GraphQL", "IoT"]
+    },
+    currentFocus: "Open Source",
+    funFact: "Why do software developers prefer dark mode? Because light attracts bugs!"
+};
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-khosya&show_icons=true&locale=en" alt="akshat-khosya" /></p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-khosya&" alt="akshat-khosya" /></p>
-	
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=akshat-khosya&theme=react-dark)
+---
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
