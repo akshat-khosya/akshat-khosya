@@ -52,11 +52,13 @@ const akshat = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 390.2 kB Used in GitHub's Storage 
  > 
-> 🏆 269 Contributions in the Year 2023
+> 🏆 270 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,12 +78,8 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/akshat-khosya/akshat-khosya/main/assets/bar_graph.png)
-
-
- Last Updated on 17/12/2023 11:14:15 UTC
+ Last Updated on 17/12/2023 11:21:30 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
