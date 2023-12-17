@@ -50,7 +50,38 @@ const akshat = {
 
 ---
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 390.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 269 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 94 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               30 repos            █████████░░░░░░░░░░░░░░░░   34.88 % 
+TypeScript               24 repos            ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/akshat-khosya/akshat-khosya/main/assets/bar_graph.png)
+
+
+ Last Updated on 17/12/2023 11:14:15 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
