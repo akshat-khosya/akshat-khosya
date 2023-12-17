@@ -58,7 +58,7 @@ const akshat = {
 
 > 📦 390.2 kB Used in GitHub's Storage 
  > 
-> 🏆 270 Contributions in the Year 2023
+> 🏆 271 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,8 +78,12 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 17/12/2023 11:21:30 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/akshat-khosya/akshat-khosya/main/assets/bar_graph.png)
+
+
+ Last Updated on 17/12/2023 11:52:10 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
