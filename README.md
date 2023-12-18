@@ -50,15 +50,17 @@ const akshat = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 390.5 kB Used in GitHub's Storage 
+> 📦 390.6 kB Used in GitHub's Storage 
  > 
-> 🏆 274 Contributions in the Year 2023
+> 🏆 281 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,6 +68,42 @@ const akshat = {
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                608 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+🌆 Daytime                1080 commits        █████████░░░░░░░░░░░░░░░░   35.50 % 
+🌃 Evening                857 commits         ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+🌙 Night                  497 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Tuesday                  392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Wednesday                343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Thursday                 683 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Friday                   278 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Saturday                 584 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Sunday                   474 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -83,7 +121,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/akshat-khosya/akshat-khosya/main/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2023 18:36:00 UTC
+ Last Updated on 18/12/2023 18:37:31 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
