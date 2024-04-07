@@ -58,7 +58,7 @@ const akshat = {
 
 **🐱 My GitHub Data** 
 
-> 📦 392.7 kB Used in GitHub's Storage 
+> 📦 392.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -119,7 +119,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/akshat-khosya/akshat-khosya/main/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2024 18:36:27 UTC
+ Last Updated on 07/04/2024 18:36:20 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
