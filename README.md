@@ -50,13 +50,15 @@ const akshat = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 392.8 kB Used in GitHub's Storage 
+> 📦 392.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,6 +66,42 @@ const akshat = {
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                844 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+🌆 Daytime                1397 commits        █████████░░░░░░░░░░░░░░░░   34.70 % 
+🌃 Evening                1095 commits        ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+🌙 Night                  690 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Tuesday                  496 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Wednesday                480 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Thursday                 806 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Friday                   372 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Saturday                 921 commits         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Sunday                   594 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -81,7 +119,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/akshat-khosya/akshat-khosya/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 21:11:05 UTC
+ Last Updated on 15/04/2024 18:36:49 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
