@@ -60,8 +60,6 @@ const akshat = {
 
 > 📦 393.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 105 Public Repositories 
@@ -107,11 +105,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               27 repos            ████████░░░░░░░░░░░░░░░░░   32.53 % 
-TypeScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+JavaScript               27 repos            ████████░░░░░░░░░░░░░░░░░   32.93 % 
+TypeScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 
 
@@ -121,7 +119,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/akshat-khosya/akshat-khosya/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2025 18:40:20 UTC
+ Last Updated on 31/01/2025 18:39:14 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
