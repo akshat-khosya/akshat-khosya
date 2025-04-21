@@ -52,7 +52,7 @@ const akshat = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
@@ -60,11 +60,9 @@ const akshat = {
 
 > 📦 393.8 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 106 Public Repositories 
+> 📜 107 Public Repositories 
  > 
 > 🔑 13 Private Repositories 
  > 
@@ -107,11 +105,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               27 repos            ████████░░░░░░░░░░░░░░░░░   32.93 % 
-TypeScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+JavaScript               27 repos            ████████░░░░░░░░░░░░░░░░░   32.53 % 
+TypeScript               24 repos            ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
 
@@ -121,7 +119,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/akshat-khosya/akshat-khosya/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2025 18:40:57 UTC
+ Last Updated on 21/04/2025 18:41:25 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
