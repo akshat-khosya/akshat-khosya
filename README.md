@@ -52,7 +52,7 @@ const akshat = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
@@ -119,7 +119,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/akshat-khosya/akshat-khosya/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2025 18:40:07 UTC
+ Last Updated on 05/05/2025 18:41:48 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
