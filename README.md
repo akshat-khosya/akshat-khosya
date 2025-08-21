@@ -60,6 +60,8 @@ const akshat = {
 
 > 📦 393.8 kB Used in GitHub's Storage 
  > 
+> 🏆 17 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 107 Public Repositories 
@@ -119,7 +121,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/akshat-khosya/akshat-khosya/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2025 18:44:25 UTC
+ Last Updated on 21/08/2025 18:42:59 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
