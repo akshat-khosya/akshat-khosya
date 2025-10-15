@@ -50,8 +50,6 @@ const akshat = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
@@ -68,42 +66,6 @@ const akshat = {
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                294 commits         ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-🌆 Daytime                524 commits         ██████████░░░░░░░░░░░░░░░   39.97 % 
-🌃 Evening                421 commits         ████████░░░░░░░░░░░░░░░░░   32.11 % 
-🌙 Night                  72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Tuesday                  163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Wednesday                188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Thursday                 332 commits         ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-Friday                   127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Saturday                 171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Sunday                   187 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -121,7 +83,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/akshat-khosya/akshat-khosya/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2025 18:44:00 UTC
+ Last Updated on 15/10/2025 18:44:38 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
