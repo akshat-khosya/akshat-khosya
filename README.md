@@ -58,7 +58,7 @@ const akshat = {
 
 **🐱 My GitHub Data** 
 
-> 📦 394.5 kB Used in GitHub's Storage 
+> 📦 394.6 kB Used in GitHub's Storage 
  > 
 > 🏆 22 Contributions in the Year 2025
  > 
@@ -121,7 +121,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/akshat-khosya/akshat-khosya/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2025 18:42:33 UTC
+ Last Updated on 18/10/2025 18:40:42 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
